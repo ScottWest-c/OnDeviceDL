@@ -5,8 +5,11 @@ import librosa.display
 import numpy as np
 import matplotlib as matplotlib
 
+#path = kagglehub.dataset_download("uwrfkaggler/ravdess-emotional-speech-audio")
+#path = "/Users/achintya.san/.cache/kagglehub/datasets/uwrfkaggler/ravdess-emotional-speech-audio/versions/1"
+#print("Path to dataset files:", path)
 
-#test_audio_file = "/Users/achintya.san/Desktop/archive-2/Actor_01/03-01-01-01-01-01-01.wav"
+test_audio_file = "archive-2/Actor_01/03-01-01-01-01-01-01.wav"
 
 audio, sample_rate = librosa.load(test_audio_file)
 
