@@ -1,1 +1,1 @@
-# ECE/CS/DS 556 On-Device Deep Learning
+# ECE/CS/DS 556 Speech Enhancment on the Edge
